@@ -56,4 +56,3 @@ Buscando constante evolução profissional, aprendendo e colaborando sempre que 
 
 ---
 
-*“On constant development on all this.”*
