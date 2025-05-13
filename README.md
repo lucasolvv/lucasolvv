@@ -15,6 +15,11 @@ Além da tecnologia, sou **produtor musical** com vivência no mercado artístic
 
 Buscando constante evolução profissional, aprendendo e colaborando sempre que possível. 🎯
 
+- 🔍 Curioso e proativo na resolução de problemas  
+- 💬 Gosto de interações, trocas e projetos colaborativos  
+- 🌎 Inglês intermediário  
+- 📍 Volta Redonda, RJ
+
 ---
 
 ### 🧰 Tecnologias & Ferramentas
@@ -40,11 +45,16 @@ Buscando constante evolução profissional, aprendendo e colaborando sempre que 
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucasolvv&show_icons=true&theme=tokyonight" alt="github stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasolvv&layout=compact&theme=tokyonight" alt="top langs" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=lucasolvv&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasolvv&layout=compact&theme=tokyonight" alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
