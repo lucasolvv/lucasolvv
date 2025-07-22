@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Backend Developer • Music Producer • Problem Solver</strong><br>
+  <strong>FullStack Developer • Music Producer • Problem Solver</strong><br>
   <em>Graduado em Sistemas de Informação • Volta Redonda - RJ • He/Him</em>
 </p>
 
