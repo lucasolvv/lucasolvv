@@ -7,7 +7,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou desenvolvedor backend com experiência no desenvolvimento e manutenção de sistemas e APIs RESTful utilizando **C# e .NET** e **bancos de dados relacionais**, como **SQL Server** e **Oracle**.
+Sou desenvolvedor fullstack (com foco em backend) com experiência no desenvolvimento e manutenção de sistemas e APIs RESTful utilizando **C# e .NET** e **bancos de dados relacionais**, como **SQL Server** e **Oracle**. No FrontEnd experiencia com ferramentas como **Vue.Js** e **Blazor**
 
 No momento buscando me aprofundar em boas praticas de desenvolvimento mas principalmente minha capacidade de resolver problemas, que é o que realmente me chama atenção. 💡
 
