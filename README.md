@@ -5,23 +5,6 @@
 
 ---
 
-### 👨‍💻 Sobre mim
-
-Sou desenvolvedor fullstack (com foco em backend) com experiência no desenvolvimento e manutenção de sistemas e APIs RESTful utilizando **C# e .NET** e **bancos de dados relacionais**, como **SQL Server** e **Oracle**. No FrontEnd experiencia com ferramentas como **Vue.Js** e **Blazor**
-
-No momento buscando me aprofundar em boas praticas de desenvolvimento mas principalmente minha capacidade de resolver problemas, que é o que realmente me chama atenção. 💡
-
-Além da tecnologia, sou **produtor musical** com vivência no mercado artístico e em vendas, o que me proporciona **habilidades interpessoais** como comunicação, escuta ativa e empatia. 
-
-Buscando constante evolução profissional, aprendendo e colaborando sempre que possível. 🎯
-
-- 🔍 Curioso e proativo na resolução de problemas  
-- 💬 Gosto de interações, trocas e projetos colaborativos  
-- 🌎 Inglês intermediário  
-- 📍 Volta Redonda, RJ
-
----
-
 ### 🧰 Tecnologias & Ferramentas
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
