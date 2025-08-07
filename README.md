@@ -18,6 +18,7 @@
 
 ### 📌 Projetos em destaque
 🔹 [**Rental System**](https://github.com/lucasolvv/rental-system) – API RESTful para o gerenciamento de aluguel de motos e cadastro de entregadores, aplicando uso de mensageria via RabbitMQ e banco de dados PostgreSQL via docker.
+
 🔹 [**contacts_list**](https://github.com/lucasolvv/contacts_list) – Projeto para praticar conceitos de fullstack  
 🔹 [**SimpleBank**](https://github.com/lucasolvv/SimpleBank) – Simulação de banco para treinar lógica de negócio  
 🔹 [**weather_api**](https://github.com/lucasolvv/weather_api) – API de clima simples em Python
