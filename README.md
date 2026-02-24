@@ -40,22 +40,6 @@ Consumo e exposição de dados meteorológicos de terceiros através de uma API 
 
 > 💡 Você pode explorar outros repositórios e experimentações no meu [perfil do GitHub](https://github.com/lucasolvv?tab=repositories).
 
----
-
-### 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=lucasolvv&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasolvv&layout=compact&theme=tokyonight" alt="Top languages" />
-    </td>
-  </tr>
-</table>
-
----
 
 ### 📫 Conecte-se comigo
 
