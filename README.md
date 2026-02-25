@@ -1,15 +1,15 @@
 <p align="center">
   <strong>Backend Developer • .NET Ecosystem • Problem Solver & Music Producer</strong><br>
-  <em>Graduado em Sistemas de Informação • Volta Redonda - RJ • He/Him</em>
+  <em>B.S. in Information Systems • Volta Redonda - RJ, Brazil • He/Him</em>
 </p>
 
 <p align="center">
-  Desenvolvedor focado na construção de APIs robustas e escaláveis, buscando evolução contínua para assumir desafios de nível Pleno/Sênior. Além de codar, compartilho meus aprendizados e jornada técnica (como CI/CD, arquitetura e .NET) escrevendo artigos para a comunidade.
+  Developer focused on building robust and scalable APIs, continuously evolving to take on Mid-Level/Senior challenges. Beyond coding, I share my learnings and technical journey (such as CI/CD, software architecture, and .NET) by writing articles for the tech community.
 </p>
 
 ---
 
-### 🧰 Tecnologias & Ferramentas
+### 🧰 Technologies & Tools
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -21,31 +21,32 @@
 
 ---
 
-### 📌 Projetos em destaque
+### 📌 Featured Projects
 
-🔹 [**Plataforma de Estágios – MVP**](https://github.com/lucasolvv/estagios-mvp)  
-Sistema de gerenciamento de vagas e candidaturas. Desenvolvido com **.NET 8**, **ASP.NET Core Web API** e **Blazor Server**. O grande diferencial deste projeto é a aplicação rigorosa de **Clean Architecture**, princípios **SOLID**, Repository Pattern e cobertura de testes unitários com **NUnit**.
+🔹 [**Internship Platform – MVP**](link-do-repo-aqui)  
+An internship and job application management system. Developed with **.NET 8**, **ASP.NET Core Web API**, and **Blazor Server**. The main highlight of this project is the rigorous application of **Clean Architecture**, **SOLID** principles, the Repository Pattern, and unit testing coverage with **NUnit**.
 
 🔹 [**Rental System**](https://github.com/lucasolvv/rental-system)  
-API RESTful para o gerenciamento de aluguel de motos e cadastro de entregadores. Arquitetura focada em resiliência e processamento assíncrono, aplicando mensageria com **RabbitMQ** e banco de dados **PostgreSQL** orquestrados via **Docker**.
+A RESTful API for motorcycle rental management and delivery driver registration. The architecture is focused on resilience and asynchronous processing, applying messaging with **RabbitMQ** and a **PostgreSQL** database orchestrated via **Docker**.
 
 🔹 [**contacts_list**](https://github.com/lucasolvv/contacts_list)  
-Aplicação Fullstack para gerenciamento de contatos, desenvolvida para consolidar a integração entre backend e frontend na prática.
+A full-stack application for contact management, developed to consolidate the integration between backend and frontend in practice.
 
 🔹 [**SimpleBank**](https://github.com/lucasolvv/SimpleBank)  
-Simulação de operações bancárias focada no isolamento de regras de negócio complexas e transações financeiras.
+A simulation of banking operations focused on the isolation of complex business rules and financial transactions.
 
 🔹 [**weather_api**](https://github.com/lucasolvv/weather_api)  
-Consumo e exposição de dados meteorológicos de terceiros através de uma API construída em **Python**.
+Consumption and exposure of third-party weather data through an API built in **Python**.
 
-> 💡 Você pode explorar outros repositórios e experimentações no meu [perfil do GitHub](https://github.com/lucasolvv?tab=repositories).
+> 💡 You can explore other repositories and experiments on my [GitHub profile](https://github.com/lucasolvv?tab=repositories).
 
 
-### 📫 Conecte-se comigo
+
+### 📫 Let's connect!
 
 - 📧 Email: lucasoliveir.tech@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-630049137/)  
-- ✍️ [Artigos & Blog (Substack)](https://medium.com/@lvksounds)
-- 🎵 [Meu trabalho como Produtor Musical](https://linktr.ee/lvksound)
+- ✍️ [Articles & Blog (Substack)](INSIRA_SEU_LINK_AQUI)
+- 🎵 [My work as a Music Producer](https://linktr.ee/lvksound)
 
 ---
