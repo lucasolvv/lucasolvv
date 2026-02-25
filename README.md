@@ -23,7 +23,7 @@
 
 ### 📌 Featured Projects
 
-🔹 [**Internship Platform – MVP**](link-do-repo-aqui)  
+🔹 [**Internship Platform – MVP**](https://github.com/lucasolvv/estagios-mvp)  
 An internship and job application management system. Developed with **.NET 8**, **ASP.NET Core Web API**, and **Blazor Server**. The main highlight of this project is the rigorous application of **Clean Architecture**, **SOLID** principles, the Repository Pattern, and unit testing coverage with **NUnit**.
 
 🔹 [**Rental System**](https://github.com/lucasolvv/rental-system)  
@@ -46,7 +46,7 @@ Consumption and exposure of third-party weather data through an API built in **P
 
 - 📧 Email: lucasoliveir.tech@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-oliveira-630049137/)  
-- ✍️ [Articles & Blog (Substack)](INSIRA_SEU_LINK_AQUI)
+- ✍️ [Articles & Blog (Medium)](https://medium.com/@lvksounds)
 - 🎵 [My work as a Music Producer](https://linktr.ee/lvksound)
 
 ---
